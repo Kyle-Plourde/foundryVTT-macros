@@ -1,3 +1,9 @@
+/*
+CREATE LIGHT SOURCE
+adds a selected light scource to the current scene
+Created by Kyle-Plourde
+*/
+
 function makeLight(vardim, varbright) {
     canvas.scene.createEmbeddedDocuments("AmbientLight", [{
         t: "1",

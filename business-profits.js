@@ -1,6 +1,6 @@
 /*
 BUSINESS PROFITS
-Calculates profits/losses of a party-owned business, according to the modified rules contained in "Trollskull Alley - a Waterdeep: Dragon Heist DM's Resource" by Eventyr Games:
+calculates profits/losses of a party-owned business, according to the modified rules contained in "Trollskull Alley - a Waterdeep: Dragon Heist DM's Resource" by Eventyr Games:
 https://www.dmsguild.com/product/253999
 Created by Kyle-Plourde
 */

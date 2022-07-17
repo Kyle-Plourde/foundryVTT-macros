@@ -2,6 +2,7 @@
 iTEM TO GOLD
 automates selling items of arbitrary value. When an item's base gold value is entered, 'sell value' is output to chat. Pressing 'Finish' will output the sum of all items 'sold'.
 'sell value' is a random value between 50% - 150% of the base gold value
+Created by Kyle-Plourde
 */
 
 
